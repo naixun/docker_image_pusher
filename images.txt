@@ -2,4 +2,4 @@ whyour/qinglong:latest
 xiaoyaliu/alist:latest
 hslr/sun-panel:latest
 mzz2017/v2raya:latest
-ghcr.io/open-webui/open-webui:main
+ghcr.io/open-webui:git-fc330a1
