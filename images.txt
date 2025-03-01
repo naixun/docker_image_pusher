@@ -3,3 +3,4 @@ xiaoyaliu/alist:latest
 hslr/sun-panel:latest
 mzz2017/v2raya:latest
 dyrnq/open-webui:latest
+mintplexlabs/anythingllm:latest
